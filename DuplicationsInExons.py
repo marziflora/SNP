@@ -1,8 +1,8 @@
 import time
 t0 = time.time()
 
-path_dupplications = "C:/Users/HP/Desktop/Studia/MGR/BSWUSAM000000191362_dup_common_pindel_cnvnator_unique2.txt"  #Duplikacje
-path_exon = "C:/Users/HP/Desktop/Studia/MGR/exon.txt"
+path_dupplications = "  "  #Duplikacje
+path_exon = "  " #Exon
 
 
 with open(path_dupplications, "r") as d: #otwórz duplikacje
